@@ -6,7 +6,7 @@
 
 You can also contribute!
 
-## Android Apps / Android Uygulamaları
+## Android Apps
 
 App Name | Description
 ---- | ----
