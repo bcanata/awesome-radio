@@ -11,8 +11,8 @@ You can also contribute! Siz de katkıda bulunabilirsiniz!
 
 Uygulama (App) | Açıklama (Description)
 ---- | ----
-[Amatör Telsizcilik Sınavı](https://play.google.com/store/apps/details?id=ist.nitrogen.amatortelsizcilik) 			| Useful app for preparing Turkish ham radio test prep. Amatör Telsizcilik sınavına hazırlanmak için kullanışlı bir uygulama.
-[Look4Sat](https://play.google.com/store/apps/details?id=com.rtbishop.look4sat&hl=en_US&gl=US) 			| Tracks satellite passes and gives transponder data of the satellites. Uydu geçişlerini listeleyip, verici frekans bilgileri ile veriyor.
+[Amatör Telsizcilik Sınavı](https://play.google.com/store/apps/details?id=ist.nitrogen.amatortelsizcilik) 			| Useful app for preparing Turkish ham radio test prep.<br />Amatör Telsizcilik sınavına hazırlanmak için kullanışlı bir uygulama.
+[Look4Sat](https://play.google.com/store/apps/details?id=com.rtbishop.look4sat&hl=en_US&gl=US) 			| Tracks satellite passes and gives transponder data of the satellites.<br />Uydu geçişlerini listeleyip, verici frekans bilgileri ile veriyor.
 
 ## Ben Kimim? Who am I?
 
