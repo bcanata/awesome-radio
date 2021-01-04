@@ -1,4 +1,4 @@
-![Awesome Radio](awesome_radio.jpg)
+![Awesome Radio](awesome_radio.png)
 
 # [Awesome Radio](https://github.com/bcanata/awesome-radio) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fbcanata%2Fawesome-radio&via=%40bugrahoca&text=Awesome-Radio&hashtags=%23ta1anw)
 
