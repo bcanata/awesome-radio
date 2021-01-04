@@ -17,7 +17,7 @@ Uygulama (App) | Açıklama (Description)
 ## Ben Kimim? Who am I?
 
 **TA1ANW** çağrı kodu ile yakın zamanda amatör telsizciliğe başladım. Bana ait diğer kaynaklar için aşağıdaki interet sitelerini ziyaret edebilirsiniz.  
-I am a newbie Ham Radio operator with the callsign **TA1ANW**. You can visit my other stuff to learn more and contact me.
+I am a newbie Ham Radio operator with the callsign **TA1ANW**. You can visit my other medium to learn more and contact me.
 
  - Twitter : [@bugrateacher](https://twitter.com/bugrateacher)
  - Facebook : [Buğra CANATA](https://www.facebook.com/canata)
