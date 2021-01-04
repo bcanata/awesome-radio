@@ -1,6 +1,6 @@
 ![Awesome Radio](awesome_ham.png)
 
-# [Awesome Radio](https://github.com/bcanata/awesome-radio) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fbcanata%2Fawesome-radio&via=%40bugrahoca&text=Awesome-Radio&hashtags=%23ta1anw)
+# [Awesome Radio](https://github.com/bcanata/awesome-radio) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fbcanata%2Fawesome-radio&via=bugrahoca&text=Awesome-Radio&hashtags=ta1anw)
 
 **A collection of useful stuff for Ham Radio, Available in Both Turkish and English**  
 **Türkçe ve İngilizce olarak Amatör Telsiz konusunda çeşitli yararlı kaynaklar**
